@@ -8,4 +8,4 @@
 
 WebRTC API: https://www.html5rocks.com/en/tutorials/webrtc/basics/
 
-Project: https://xgrifex.github.io/FakeCall/
+Project: https://timeshin.github.io/FakeCall/
