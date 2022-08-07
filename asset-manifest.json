@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FakeCall/static/css/main.3df8b1aa.css",
+    "main.js": "/FakeCall/static/js/main.00828b60.js",
+    "index.html": "/FakeCall/index.html",
+    "main.3df8b1aa.css.map": "/FakeCall/static/css/main.3df8b1aa.css.map",
+    "main.00828b60.js.map": "/FakeCall/static/js/main.00828b60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3df8b1aa.css",
+    "static/js/main.00828b60.js"
+  ]
+}
